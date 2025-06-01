@@ -1,6 +1,6 @@
 # SKYmap readme
-完整版请使用readme.html;
-使用方法：将文件下载后用浏览器打开
+完整版请使用readme.html或访问https://mantou6.wordpress.com/2025/06/01/readme/快速查看。
+
 
 备用下载链接：https://www.123912.com/s/URjkjv-EcsxH
 
