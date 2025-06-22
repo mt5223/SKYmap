@@ -1,0 +1,4 @@
+本文件夹中内容由爬虫程序自动抓取，非人工方式自动生成。
+如侵犯你的权益：联系邮箱mt5456@outlook.com
+爬虫程序见SKYmap/python爬虫.py
+爬虫访问网站：https://sky-children-of-the-light.fandom.com/wiki/World_Maps
